@@ -1,1 +1,2 @@
-# dose-certa
+# DoseCerta
+Aplicativo Dose Certa
